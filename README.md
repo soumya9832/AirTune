@@ -97,6 +97,7 @@ For support, email dassoumyadip95933@gmail.com or join our Slack channel.
 ## Installation
 
 Install AirTune from Play Store.
+[Download APK](https://drive.google.com/file/d/1_YLxkHqEnhprjOf22mrAAxWZ-5xD_4kT/view?usp=sharing)
     
 ## Feedback
 
